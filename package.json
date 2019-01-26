@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/Shaun2D2/bobby-pin#readme",
   "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
     "eslint": "^5.12.1"
   }
 }
