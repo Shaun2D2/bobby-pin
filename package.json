@@ -1,0 +1,27 @@
+{
+  "name": "bobby-pin",
+  "version": "1.0.0",
+  "description": "Simple framework to build quick APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaun2D2/bobby-pin.git"
+  },
+  "keywords": [
+    "framework",
+    "express.js",
+    "api"
+  ],
+  "author": "Shaun Lobsinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shaun2D2/bobby-pin/issues"
+  },
+  "homepage": "https://github.com/Shaun2D2/bobby-pin#readme",
+  "dependencies": {
+    "eslint": "^5.12.1"
+  }
+}
